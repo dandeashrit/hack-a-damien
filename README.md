@@ -9,3 +9,4 @@
 - Supermarket (Supermercado)
 - Music shop (Tienda de Musica)
 - Apartment (Departamento)
+- Park (Parque, different custom sprite)
